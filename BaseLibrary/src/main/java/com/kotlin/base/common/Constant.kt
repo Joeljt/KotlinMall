@@ -8,7 +8,7 @@ package com.kotlin.base.common
 class Constant {
 
     companion object{
-        val SERVICE_ADDRESS = ""
+        val SERVICE_ADDRESS = "127.0.0.1"
     }
 
 }
